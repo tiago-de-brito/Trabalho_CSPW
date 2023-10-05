@@ -1,0 +1,91 @@
+body, select {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header, select {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li, select {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section.pagina-principal, .formação, .serviços {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+select {
+    border-color: #333;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.git{
+    height: 32px;
+    border-radius: 18px;
+}
+
+table {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+thead {
+    background-color: lightslategray;
+}
+th, td {
+    border: 2px solid darkslategray;
+    
+}
+tr:hover {
+    background-color: lightgray;
+}
+.foto {
+    width: 220px;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 100px;   
+    max-width: 100%;
+    height: auto;
+    margin-right: 0;
+}
+
+
+
+
+
